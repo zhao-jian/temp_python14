@@ -3,4 +3,6 @@ def hello():
 
 a =a
 
+a = 1
+
 
